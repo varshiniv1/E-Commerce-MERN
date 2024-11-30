@@ -1,0 +1,1 @@
+Waves is a modern e-commerce website built using the MERN stack (MongoDB, Express.js, React, Node.js). This platform enables users to browse products, add them to their cart, and complete purchases through a responsive and user-friendly interface.
